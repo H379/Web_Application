@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Harish Bonkuri TechWorld !!! </h1>
+<h1> Welcome to Harish Bonkuri TechWorld !!! </h1>
 
